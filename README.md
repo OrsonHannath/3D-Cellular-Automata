@@ -22,81 +22,81 @@ The project harbours itteration/phase controls which allow the simulation to be 
 |:---:|:---:|:---:|:---:|
 |4|4|5|Moore|
 
-<a href="url"><img src="Screenshots/445.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/445.gif" width="100%"></a>
 
 ### Amoeba
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |9-26|5-7, 12, 13, 15|5|Moore|
 
-<a href="url"><img src="Screenshots/Amoeba.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/Amoeba.gif" width="100%"></a>
 
 ### Clouds
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |12-26|13, 14|2|Moore|
 
-<a href="url"><img src="Screenshots/Clouds.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/Clouds.gif" width="100%"></a>
 
 ### Crystal Growth
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-6|1, 3|2|Von Neuman|
 
-<a href="url"><img src="Screenshots/CrystalGrowth.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/CrystalGrowth.gif" width="100%"></a>
 
 ### Diamond Growth
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |5, 6|1-3|7|Von Neuman|
 
-<a href="url"><img src="Screenshots/DiamondGrowth.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/DiamondGrowth.gif" width="100%"></a>
 
 ### Nuclei
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|7|Moore|
 
-<a href="url"><img src="Screenshots/Nuclei.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/Nuclei.gif" width="100%"></a>
 
 ### Pulsing Cell
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|6|Moore|
 
-<a href="url"><img src="Screenshots/PulsingCell.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/PulsingCell.gif" width="100%"></a>
 
 ### Pulsing Tesseract
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|5|Moore|
 
-<a href="url"><img src="Screenshots/PulsingTesseract.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/PulsingTesseract.gif" width="100%"></a>
 
 ### Pyroclastic
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |4-7|6-8|12|Moore|
 
-<a href="url"><img src="Screenshots/Pyroclastic.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/Pyroclastic.gif" width="100%"></a>
 
 ### Replicating Cube
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-3, 7-9, 11-13, 18, 21, 22, 26|1, 3, 13, 17, 20-2|4|Moore|
 
-<a href="url"><img src="Screenshots/ReplicatingCube.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/ReplicatingCube.gif" width="100%"></a>
 
 ### Slow Decay
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1, 4, 8, 11, 13-26|13-26|5|Moore|
 
-<a href="url"><img src="Screenshots/SlowDecay.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/SlowDecay.gif" width="100%"></a>
 
 ### Spike Ball
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-3, 7-9, 11-13, 18, 21, 22, 24, 26|3, 13, 17, 20-26|4|Moore|
 
-<a href="url"><img src="Screenshots/SpikeBall.gif" width="50%"></a>
+<a href="url"><img src="Screenshots/SpikeBall.gif" width="100%"></a>
