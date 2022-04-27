@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb9fa4f6f8e10bf47865088e4b6d6a59, type: 3}
+  m_Name: Spike Ball
+  m_EditorClassIdentifier: 
+  boundingBoxSize: {x: 50, y: 50, z: 50}
+  survival: 0101010000000101010001010100000000010000010100010001
+  birth: 0000010000000000000000000100000001000001010101010101
+  deathTime: 4
+  method: 0
+  middleSpawnPercent: 0.075
+  middleSpawnChance: 1
+  aliveColor: {r: 1, g: 0.42657882, b: 0.4009434, a: 1}
+  deadColor: {r: 1, g: 0.6994132, b: 0.28773582, a: 1}
