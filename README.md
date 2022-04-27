@@ -15,88 +15,88 @@ Von Neuman defines a neighbouring cell as one of which shares a face with the ce
 ### Itteration/Phase Controls
 The project harbours itteration/phase controls which allow the simulation to be paused at any given phase. The controls allow for phases to be played individually or simultaneously. The project also has two camera views one using orthographic projection and the other using perspective.
 
-<a href="url"><img src="Screenshots/ControlsDemo.gif" width="100%"></a>
+<a href="Screenshots/ControlsDemo.gif"><img src="Screenshots/ControlsDemo.gif" width="100%"></a>
 
 ### Rule 445
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |4|4|5|Moore|
 
-<a href="url"><img src="Screenshots/445.gif" width="75%"></a>
+<a href="Screenshots/445.gif"><img src="Screenshots/445.gif" width="75%"></a>
 
 ### Amoeba
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |9-26|5-7, 12, 13, 15|5|Moore|
 
-<a href="url"><img src="Screenshots/Amoeba.gif" width="75%"></a>
+<a href="Screenshots/Amoeba.gif"><img src="Screenshots/Amoeba.gif" width="75%"></a>
 
 ### Clouds
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |12-26|13, 14|2|Moore|
 
-<a href="url"><img src="Screenshots/Clouds.gif" width="75%"></a>
+<a href="Screenshots/Clouds.gif"><img src="Screenshots/Clouds.gif" width="75%"></a>
 
 ### Crystal Growth
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-6|1, 3|2|Von Neuman|
 
-<a href="url"><img src="Screenshots/CrystalGrowth.gif" width="75%"></a>
+<a href="Screenshots/CrystalGrowth.gif"><img src="Screenshots/CrystalGrowth.gif" width="75%"></a>
 
 ### Diamond Growth
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |5, 6|1-3|7|Von Neuman|
 
-<a href="url"><img src="Screenshots/DiamondGrowth.gif" width="75%"></a>
+<a href="Screenshots/DiamondGrowth.gif"><img src="Screenshots/DiamondGrowth.gif" width="75%"></a>
 
 ### Nuclei
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|7|Moore|
 
-<a href="url"><img src="Screenshots/Nuclei.gif" width="75%"></a>
+<a href="Screenshots/Nuclei.gif"><img src="Screenshots/Nuclei.gif" width="75%"></a>
 
 ### Pulsing Cell
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|6|Moore|
 
-<a href="url"><img src="Screenshots/PulsingCell.gif" width="75%"></a>
+<a href="Screenshots/PulsingCell.gif"><img src="Screenshots/PulsingCell.gif" width="75%"></a>
 
 ### Pulsing Tesseract
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |21-26|3, 4, 14, 23, 25|5|Moore|
 
-<a href="url"><img src="Screenshots/PulsingTesseract.gif" width="75%"></a>
+<a href="Screenshots/PulsingTesseract.gif"><img src="Screenshots/PulsingTesseract.gif" width="75%"></a>
 
 ### Pyroclastic
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |4-7|6-8|12|Moore|
 
-<a href="url"><img src="Screenshots/Pyroclastic.gif" width="75%"></a>
+<a href="Screenshots/Pyroclastic.gif"><img src="Screenshots/Pyroclastic.gif" width="75%"></a>
 
 ### Replicating Cube
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-3, 7-9, 11-13, 18, 21, 22, 26|1, 3, 13, 17, 20-2|4|Moore|
 
-<a href="url"><img src="Screenshots/ReplicatingCube.gif" width="75%"></a>
+<a href="Screenshots/ReplicatingCube.gif"><img src="Screenshots/ReplicatingCube.gif" width="75%"></a>
 
 ### Slow Decay
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1, 4, 8, 11, 13-26|13-26|5|Moore|
 
-<a href="url"><img src="Screenshots/SlowDecay.gif" width="75%"></a>
+<a href="Screenshots/SlowDecay.gif"><img src="Screenshots/SlowDecay.gif" width="75%"></a>
 
 ### Spike Ball
 |Survival|Birth|Death|Method|
 |:---:|:---:|:---:|:---:|
 |1-3, 7-9, 11-13, 18, 21, 22, 24, 26|3, 13, 17, 20-26|4|Moore|
 
-<a href="url"><img src="Screenshots/SpikeBall.gif" width="75%"></a>
+<a href="Screenshots/SpikeBall.gif"><img src="Screenshots/SpikeBall.gif" width="75%"></a>
