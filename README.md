@@ -11,6 +11,7 @@ Moore defines a neighbouring cell as one of which is within the 3x3x3 surroundin
 Von Neuman defines a neighbouring cell as one of which shares a face with the cell being tested. This means that neighbours can only exist at each of the 8 faces of a cuboid cell.
 
 ## Cellular Automata Examples
+**_NOTE:_** All previews are gifs recorded at 15fps.
 
 ### Itteration/Phase Controls
 The project harbours itteration/phase controls which allow the simulation to be paused at any given phase. The controls allow for phases to be played individually or simultaneously. The project also has two camera views one using orthographic projection and the other using perspective.
